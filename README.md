@@ -1,6 +1,6 @@
 # Music-Store-Analysis-SQL
 
-Examine the dataset with SQL and help the store understand its business growth by answering questions. Joined multiple tables and executed Exploratory Data Analysis on customers, tracks, tracks, countries, album, playlist, employee and artists.
+Examined the dataset with SQL and help the store understand its business growth by answering questions. Joined multiple tables and executed Exploratory Data Analysis on customers, tracks, tracks, countries, album, playlist, employee and artists.
 
 ## Question Set 1
   1. Who is the senior most employee based on job title?
